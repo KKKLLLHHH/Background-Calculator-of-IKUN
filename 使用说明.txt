@@ -1,3 +1,5 @@
+建议先去看一下项目简介
+
 源代码:calculator.py(旧版)
       calculator2.py(exe文件源代码)
 calculator在本人改动之后出现了亿些bug，已经废弃……
